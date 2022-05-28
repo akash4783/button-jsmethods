@@ -13,7 +13,9 @@ const acctData = [
     "A1234": 4593.22,
     "A9921": 0,
     "A5231": 232142.5,
-    "A8191": 4344
+    "A8191": 4344,
+    "akash":4783,
+    "patil":4785
     };
       const valuesBalance = Object.values(balance);
       const Maximum_Salary= Math.max(...valuesBalance);
